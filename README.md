@@ -28,8 +28,6 @@ If you use this resource, please cite the accompanying paper:
 └── README.md     # This file
 ```
 
-`index.html` has no build step and no external dependencies beyond what's inlined in the file. It can be edited directly by an author and will update the live site as soon as it's pushed to the branch GitHub Pages is serving from.
-
 ---
 
 
